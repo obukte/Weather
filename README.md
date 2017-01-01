@@ -1,4 +1,4 @@
-# Weather
+# Weather App
 iOS Weather App
 This is an iOS Weather App.
 Downloads weather  data from "http://api.openweathermap.org/".
